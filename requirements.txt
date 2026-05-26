@@ -1,0 +1,5 @@
+customtkinter
+requests
+tzdata
+pytest
+pytest-cov

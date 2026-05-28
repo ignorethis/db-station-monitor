@@ -73,11 +73,6 @@ Die Anwendung liest Einstellungen aus config.json. Eine Beispielstruktur sieht s
 - station_history.py – Suchhistorie
 - json_utils.py, datetime_utils.py, station_utils.py, constants.py
 
-## Testen
-
-Die Tests lassen sich mit pytest starten:
-   pytest
-
 ## Abhängigkeiten
 
 Aktive externe Laufzeitpakete:

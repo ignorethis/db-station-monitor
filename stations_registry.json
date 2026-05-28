@@ -1,0 +1,45 @@
+{
+  "Frankfurt (Main) Hbf": {
+    "verified": true,
+    "display_name": "Frankfurt (Main) Hbf",
+    "stop_ids": [
+      {
+        "id": "nl-OpenOV_stoparea:17791",
+        "source": "openov",
+        "label": "Fernverkehr (OpenOV)"
+      },
+      {
+        "id": "de-DELFI_de:06412:7010",
+        "source": "delfi",
+        "label": "Nahverkehr S-Bahn (Hauptbahnhof tief)"
+      },
+      {
+        "id": "de-DELFI_de:06412:10",
+        "source": "delfi",
+        "label": "Fernverkehr (Hauptbahnhof)"
+      }
+    ]
+  },
+  "Frankfurt (Main) Westbahnhof": {
+    "verified": true,
+    "display_name": "Frankfurt (Main) Westbahnhof",
+    "stop_ids": [
+      {
+        "id": "de-DELFI_de:06412:1204",
+        "source": "delfi",
+        "label": "DELFI"
+      }
+    ]
+  },
+  "Frankfurt (Main) Galluswarte": {
+    "verified": true,
+    "display_name": "Frankfurt (Main) Galluswarte",
+    "stop_ids": [
+      {
+        "id": "de-DELFI_de:06412:101",
+        "source": "delfi",
+        "label": "DELFI"
+      }
+    ]
+  }
+}

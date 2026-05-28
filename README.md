@@ -97,7 +97,3 @@ Die direkt im Projekt genutzten externen Pakete sind frei verwendbar und haben k
 - pytest (MIT)
 - pytest-cov (MIT)
 - tzdata (PSF-kompatibel / permissiv)
-
-## Hinweis zur GitHub-Prüfung
-
-Der lokale Ordner enthält keine .git-Metadaten, daher kann ich nicht sicher prüfen, ob die Dateien auf GitHub als Repository erfasst sind. Lokal liegen die Quellcode-Dateien vor, aber es sind auch Artefakte vorhanden, die in einem sauberen Repository normalerweise ignoriert werden sollten: build/, dist/, .venv/, __pycache__/, .pytest_cache/.
